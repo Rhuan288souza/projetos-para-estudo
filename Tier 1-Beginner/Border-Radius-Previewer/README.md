@@ -2,14 +2,6 @@
 
 Performs an update on the border-radius style of a square.
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
 ## Usage
 ```
 The user can chose between the 4 main parameters for the border-radius. These are:
